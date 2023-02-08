@@ -8,15 +8,26 @@ I'm a FrontEnd Developer and Designer from Brazil. Always studying something new
 
  - Game Development
  - Unity
- - React.js
+ - AWS
+ - Java
+ - C++
 
-### 🛠️ Languages and Tools: 
-<pre><img src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-black?&style=for-the-badge&logo=HTML5&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS3-black?&style=for-the-badge&logo=CSS3&logoColor=blue" /> <img src="https://img.shields.io/badge/React-black?&style=for-the-badge&logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=Python&logoColor=green" /> <img src="https://img.shields.io/badge/Csharp-black?&style=for-the-badge&logo=C-sharp&logoColor=blue" /> <img src="https://img.shields.io/badge/git-black?&style=for-the-badge&logo=git&logoColor=orange" /></pre>
+### 🛠️ Languages and Tools:
+<pre><img src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-black?&style=for-the-badge&logo=HTML5&logoColor=orange" /> <img src="https://img.shields.io/badge/CSS3-black?&style=for-the-badge&logo=CSS3&logoColor=blue" /> <img src="https://img.shields.io/badge/React-black?&style=for-the-badge&logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=Python&logoColor=green" /> <img src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=Flask&logoColor=green" /> <img src="https://img.shields.io/badge/Jinja-black?&style=for-the-badge&logo=Jinja&logoColor=#B41717" /> <img src="https://img.shields.io/badge/AWS-black?&style=for-the-badge&logo=amazon-aws&logoColor=#232F3E" /> <img src="https://img.shields.io/badge/docker-black?&style=for-the-badge&logo=docker&logoColor=#2496ED" /> <img src="https://img.shields.io/badge/git-black?&style=for-the-badge&logo=git&logoColor=orange" /></pre>
+
+<pre><img src="https://img.shields.io/badge/Csharp-black?&style=for-the-badge&logo=C-sharp&logoColor=blue" /> <img src="https://img.shields.io/badge/java-black?&style=for-the-badge&logo=Java&logoColor=brown" /> <img src="https://img.shields.io/badge/unity-black?&style=for-the-badge&logo=unity&logoColor=#FFFFFF" /> <img src="https://img.shields.io/badge/c++-black?&style=for-the-badge&logo=cplusplus&logoColor=#00599C" /></pre>
+
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCASilva&show_icons=true&theme=radical)
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCASilva&layout=compact&theme=radical)](https://github.com/GabrielCASilva/github-readme-stats)
+
+<hr/>
 
 ###  ⚡ Reach me out:  
   <pre><a href="https://www.linkedin.com/in/gabrielcarvalho01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></pre>
-  
-
 
 <!--
 **GabrielCASilva/GabrielCASilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
