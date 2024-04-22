@@ -1,7 +1,7 @@
 ## Hi. I'm Gabriel Carvalho! 👨‍💻
 
 <br>
-I'm a FrontEnd Developer and Designer from Brazil. Always studying something new to improve my skills!
+I'm a FullStack Developer and Designer from Brazil. Always studying something new to improve my skills!
 <br>
 
 ### 🛠️ Languages and Tools:
