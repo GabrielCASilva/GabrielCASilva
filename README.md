@@ -5,9 +5,9 @@ I'm a FullStack Developer and Designer from Brazil. Always studying something ne
 <br>
 
 ### 🛠️ Languages and Tools:
-<pre><img src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/React-black?&style=for-the-badge&logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=Python&logoColor=green" /> <img src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=Flask&logoColor=green" /> <img src="https://img.shields.io/badge/AWS-black?&style=for-the-badge&logo=amazon-aws&logoColor=#232F3E" /> 
+<pre><img src="https://img.shields.io/badge/csharp-black?&style=for-the-badge&logo=csharp&logoColor=blue" /> <img src="https://img.shields.io/badge/dotnet-black?&style=for-the-badge&logo=dotnet&logoColor=512BD4" />  <img src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/AWS-black?&style=for-the-badge&logo=amazon-aws&logoColor=#232F3E" /> 
 
-<img src="https://img.shields.io/badge/docker-black?&style=for-the-badge&logo=docker&logoColor=#2496ED" /> <img src="https://img.shields.io/badge/git-black?&style=for-the-badge&logo=git&logoColor=orange" /> <img src="https://img.shields.io/badge/java-black?&style=for-the-badge&logo=Java&logoColor=brown" /> <img src="https://img.shields.io/badge/springboot-black?&style=for-the-badge&logo=SpringBoot" /> </pre>
+<img src="https://img.shields.io/badge/docker-black?&style=for-the-badge&logo=docker&logoColor=#2496ED" /> <img src="https://img.shields.io/badge/git-black?&style=for-the-badge&logo=git&logoColor=orange" /> </pre>
 
 <pre> <img src="https://img.shields.io/badge/godot-black?&style=for-the-badge&logo=Godot&logoColor=#FFFFFF" /> <img src="https://img.shields.io/badge/unity-black?&style=for-the-badge&logo=unity&logoColor=#FFFFFF" /> <img src="https://img.shields.io/badge/c-black?&style=for-the-badge&logo=c&logoColor=#00599C" /></pre>
 
